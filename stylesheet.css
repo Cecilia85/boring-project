@@ -1,0 +1,15 @@
+h2.intro{
+color: brown;
+font-style: italic;
+}
+
+p.intro{
+color: grey;
+font-family:Arial;
+}
+
+img.intro{
+widht: 100px;
+height: 100px;
+
+}
